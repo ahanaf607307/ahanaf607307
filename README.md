@@ -1,6 +1,6 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/zx8ZJqS/Ahanaf-Mubasshir.gif"  />
+  <img height="400" src="https://i.ibb.co.com/zx8ZJqS/Ahanaf-Mubasshir.gif"  />
 </div>
 
 ###
