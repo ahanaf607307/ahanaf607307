@@ -1,8 +1,6 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <div align="center">
- <video width="320" height="240" controls>
-  <source src="[movie.mp4](https://streamable.com/olnd4s)" type="video/mp4">
-</video>
+  <img height="350" src="[https://i.ibb.co.com/zx8ZJqS/Ahanaf-Mubasshir.gif](https://streamable.com/olnd4s)"  />
 </div>
 
 ###
