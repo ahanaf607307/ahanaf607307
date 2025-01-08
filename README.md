@@ -1,8 +1,10 @@
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
-<div align="center">
-  <img height="350" src="https://i.ibb.co.com/Sy9NyWm/done-Ahanaf-Git-Banner.png"  />
-</div>
 
+<div align="center">
+  <img height="450" src="[https://i.ibb.co.com/Sy9NyWm/done-Ahanaf-Git-Banner.png](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)"  />
+</div>
+<div align="center">
+  <img height="450" src="https://i.ibb.co.com/Sy9NyWm/done-Ahanaf-Git-Banner.png"  />
+</div>
 ###
 
 <h1 align="left">Hi there 👋,</h1>
