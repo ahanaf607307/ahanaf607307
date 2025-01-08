@@ -1,6 +1,8 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <div align="center">
-<div style="position:relative; width:100%; height:0px; padding-bottom:40.000%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/olnd4s?autoplay=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+ <video width="320" height="240" controls>
+  <source src="[movie.mp4](https://streamable.com/olnd4s)" type="video/mp4">
+</video>
 </div>
 
 ###
@@ -70,29 +72,6 @@
 ###
 
 <h2 align="left">Social Link's</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahanaf-mubasshir-ab1a02333/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/ahanaf607307" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="center">My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahanaf607307&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ahanaf607307&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahanaf607307&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
