@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahanaf Mubasshir</h1>
 <h3 align="center">A passionate frontend developer from Rangpur , Bangladesh</h3>
 
-<p align="left"> <img src="https://i.ibb.co.com/nBJsbyH/okey.jpg" alt="ahanaf607307" /> </p>
+<p align="right"> <img src="https://i.ibb.co.com/nBJsbyH/okey.jpg" alt="ahanaf607307" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahanaf607307" target="blank"><img src="https://img.shields.io/twitter/follow/ahanaf607307?logo=twitter&style=for-the-badge" alt="ahanaf607307" /></a> </p>
 
