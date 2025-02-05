@@ -28,6 +28,16 @@
 
 ###
 
+###
+
+<h2 align="center">Current Activities</h2>
+
+###
+
+<h3 align="left">- Exploring Next.js .<br><br>- Working on a eCommerce Website .</h3>
+
+###
+
 <h2 align="center">🚀 Some Tools I Use</h2>
 
 ###
