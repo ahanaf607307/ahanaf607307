@@ -88,7 +88,11 @@
 ###
 
 <div align="center">
-  # GitHub Streak Stats  
+ <p align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahanaf607307&theme=dark&hide_border=false) 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahanaf607307&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
