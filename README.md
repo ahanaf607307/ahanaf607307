@@ -92,5 +92,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=ahanaf607307&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahanaf607307&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+<div>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ahanaf607307&theme=dark&hide_border=false)<br/>
+</div>
 
 ###
