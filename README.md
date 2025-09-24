@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">Hi, I’m Ahanaf Mubasshir, a passionate MERN Stack Developer hailing from the serene city of Rangpur, Bangladesh.</h4>
+<h4 align="left">Hi, I’m Ahanaf Mubasshir — a passionate MERN Stack Developer with 3 months of professional experience, based in the serene city of Dhaka, Bangladesh.</h4>
 
 ###
 
