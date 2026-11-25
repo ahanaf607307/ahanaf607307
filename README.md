@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Full Stack Developer - NODE</h2>
+<h2 align="left">Full Stack Developer - Node</h2>
 
 ###
 
